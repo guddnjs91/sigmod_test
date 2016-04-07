@@ -1,0 +1,5 @@
+Make <init-file> and <workload-file> for test graph
+
+Usage : ./makeinput <scale> <init-file> <workload-file>
+
+Scale has 3 types : S(small), M(medium), L(large)
